@@ -1,0 +1,15 @@
+{
+  "title": "Messenger Sidebar",
+  "name": "side-messenger",
+  "version": "0.0.1",
+  "description": "Adds messenger.com as a sidebar",
+  "main": "index.js",
+  "author": "Jeff Griffiths <jeff@canuckistani.ca>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
